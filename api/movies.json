@@ -1,0 +1,136 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/port-single-home-4-1.jpg",
+      "title": "FLORA",
+      "description": "Hodor Ulman / Norway"
+    },
+    {
+      "id": 2,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/port-single-home-4-2.jpg",
+      "title": "THE FIFTH DAY",
+      "description": "Hodor Ulman / Norway"
+    },
+    {
+      "id": 3,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/port-single-home-4-3.jpg",
+      "title": "THE VIOLIN TEACHER",
+      "description": "Hodor Ulman / Norway"
+    },
+    {
+      "id": 4,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/port-single-home-4-4.jpg",
+      "title": "THE STRANGE LIVES",
+      "description": "Hodor Ulman / Norway"
+    },
+    {
+      "id": 5,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/port-single-home-4-5.jpg",
+      "title": "BLUEBERRIES",
+      "description": "Hodor Ulman / Norway"
+    },
+    {
+      "id": 6,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/port-single-home-4-6.jpg",
+      "title": "SONG OF MY PEOPLE",
+      "description": "Hodor Ulman / Norway"
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "date": "07 MAY",
+      "title": "THE PIANO TEACHER",
+      "time": "11:00 / 15:00 / 19:30"
+    },
+    {
+      "id": 2,
+      "date": "07 MAY",
+      "title": "SONGS OF FATHER",
+      "time": "11:00 / 15:00 / 19:30"
+    },
+    {
+      "id": 3,
+      "date": "08 MAY",
+      "title": "STRAWBERRIES",
+      "time": "11:00 / 15:00 / 19:30"
+    },
+    {
+      "id": 4,
+      "date": "09 MAY",
+      "title": "STRANGE LOVE OF ANA",
+      "time": "11:00 / 15:00 / 19:30"
+    }
+  ],
+  "cinema": [
+    {
+      "id": 1,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-9.jpg",
+      "title": "COUNTREY",
+      "price": 21
+    },
+    {
+      "id": 2,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-8.jpg",
+      "title": "PERFECT EDITION",
+      "price": 51
+    },
+    {
+      "id": 3,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-7.jpg",
+      "title": "GONE",
+      "price": 51
+    },
+    {
+      "id": 4,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-6.jpg",
+      "title": "BALUNGAN KERE",
+      "price": 31
+    },
+    {
+      "id": 5,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-5.jpg",
+      "title": "HOME",
+      "price": 36
+    },
+    {
+      "id": 6,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-4.jpg",
+      "title": "DOUBLE LIFE",
+      "price": 23
+    }
+  ],
+  "actors": [
+    {
+      "id": 1,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/h4-team-img1.jpg",
+      "name": "ZAHIRA WIDE",
+      "job": "Movie Director"
+    },
+    {
+      "id": 2,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/h4-team-img2.jpg",
+      "name": "SHIN SAMARI",
+      "job": "Casting Director"
+    },
+    {
+      "id": 3,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/h4-team-img3.jpg",
+      "name": "KEREN HESS",
+      "job": "Set Decorator"
+    },
+    {
+      "id": 4,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/inner-team-1.jpg",
+      "name": "VICTOR GRAY",
+      "job": "Sound Designer"
+    },
+    {
+      "id": 5,
+      "image": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/inner-team-2.jpg",
+      "name": "TRIPP MCKAY",
+      "job": "Camera Operator"
+    }
+  ]
+}

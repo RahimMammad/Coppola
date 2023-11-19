@@ -1,0 +1,37 @@
+.movies-main-container {
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(477px, 1fr));
+    gap: 20px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+
+    .movie-card {
+        width: 477px;
+        height: 268px;
+        position: relative;
+        cursor: pointer;
+
+        img {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+        }
+
+        h2 {
+            color: #fff;
+            position: absolute;
+            left: 30px;
+            bottom: 60px;
+        }
+
+        p {
+            color: #fff;
+            position: absolute;
+            left: 30px;
+            bottom: 35px;
+        }
+    }
+}

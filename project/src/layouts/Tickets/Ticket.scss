@@ -1,0 +1,40 @@
+section {
+    h5 {
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+    .ticket-main-container {
+        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding-top: 50px;
+
+        .ticket-card {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            gap: 100px;
+            align-items: center;
+            border-bottom: 1px solid #000;
+            text-align: left;
+            padding: 30px;
+
+            button {
+                width: 131px;
+                height: 44px;
+                border: 2px solid #000;
+                font-size: 16px;
+                font-weight: 600;
+                cursor: pointer;
+            }
+
+            button:hover {
+                background-color: #000;
+                color: #fff;
+                transition: 0.4s;
+            }
+        }
+    }
+}
